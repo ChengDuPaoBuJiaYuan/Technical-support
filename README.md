@@ -1,1 +1,4 @@
-# Technical-support
+大咖俱乐部-技术支持
+你对大咖俱乐部有什么建议或者功能上的疑问，你可以联系我们
+
+我们的邮箱:kntxlg@sina.com
